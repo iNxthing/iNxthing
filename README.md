@@ -39,7 +39,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iNxthing&show_icons=true&theme=rose_pine&hide_border=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iNxthing&show_icons=true&theme=rose_pine&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNxthing&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" alt="Most used languages" />
 </div>
 
