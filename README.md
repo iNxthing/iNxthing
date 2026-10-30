@@ -34,21 +34,21 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyazZ3bDlheGtyZzF0M2s5dmxkdTQ0NjJhYTR1aHBmc2p2Y2I4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/39Y1EY9nkLPIfY1UCl/giphy.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyazZ3bDlheGtyZzF0M2s5dmxkdTQ0NjJhYTR1aHBmc2p2Y2I4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/39Y1EY9b4bD6LJrE3N6/200w.gif" />
 
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Nothing/Nothing/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Nothing/Nothing/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/iNxthing/iNxthing/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&border_radius=20" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/iNxthing/iNxthing/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" alt="Most used languages" />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nothing/Nothing/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nothing/Nothing/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nothing/Nothing/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iNxthing/iNxthing/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iNxthing/iNxthing/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iNxthing/iNxthing/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
