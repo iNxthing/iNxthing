@@ -2,7 +2,13 @@
 
 ###
 
-<h2 align="center">I like building things, learning new tech, and improving my coding skills every day.</h2>
+<p align="center">I like building things, learning new tech, and improving my coding skills every day.</p>
+
+###
+
+<div align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyazZ3bDlheGtyZzF0M2s5dmxkdTQ0NjJhYTR1aHBmc2p2Y2I4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/39Y1EY9nkLPI fY1UCl/giphy.gif" alt="hello gif" />
+</div>
 
 ###
 
@@ -34,22 +40,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjMyazZ3bDlheGtyZzF0M2s5dmxkdTQ0NjJhYTR1aHBmc2p2Y2I4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/39Y1EY9nkLPIfY1UCl/giphy.gif" alt="hello gif" />
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iNxthing&show_icons=true&theme=rose_pine&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNxthing&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" alt="Most used languages" />
-</div>
-
-###
-
-<img src="https://streak-stats.demolab.com/?user=iNxthing&theme=rose-pine&hide_border=false" alt="GitHub streak stats" />
-
-###
-
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://discord.com/users/1329995917994098723" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
